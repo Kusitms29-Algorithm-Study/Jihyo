@@ -44,6 +44,5 @@ public class Array {
         for (int num : mergedArray) {
             System.out.print(num + " ");
         }
-
     }
 }
